@@ -15,8 +15,6 @@ Find a30.
 
 """
 
-import math
-
 
 def split(x):
     digits = []
@@ -41,4 +39,3 @@ def a(n):
 
 if __name__ == '__main__':
     print a(30)
-
